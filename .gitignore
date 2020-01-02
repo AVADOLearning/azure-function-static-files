@@ -1,0 +1,12 @@
+# .NET Core
+/*/bin/
+/*/obj/
+
+# Node.js
+/*/node_modules/
+
+# Yarn
+/*/yarn-error.log
+
+# Visual Studio
+/.vs/

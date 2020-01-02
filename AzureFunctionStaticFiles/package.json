@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "@lukecarrier/azure-function-static-files",
+  "author": {
+    "name": "Luke Carrier",
+    "email": "luke@carrier.im"
+  },
+  "devDependencies": {
+    "azure-functions-core-tools": "3.0.*"
+  }
+}

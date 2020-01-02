@@ -1,0 +1,40 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureFunctionStaticFiles", "AzureFunctionStaticFiles\AzureFunctionStaticFiles.csproj", "{1CA1AEEA-D5A5-4819-A03C-4E825AA12744}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FF7AEC46-9D3D-4F60-A262-7CFFFC8ED1FB}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitignore = .gitignore
+		LICENSE.md = LICENSE.md
+		package.json = package.json
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureFunctionStaticFiles.Tests", "AzureFunctionStaticFiles.Tests\AzureFunctionStaticFiles.Tests.csproj", "{1AB31FE3-7517-4E04-B832-1E23E0A51696}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CA1AEEA-D5A5-4819-A03C-4E825AA12744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CA1AEEA-D5A5-4819-A03C-4E825AA12744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CA1AEEA-D5A5-4819-A03C-4E825AA12744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CA1AEEA-D5A5-4819-A03C-4E825AA12744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AB31FE3-7517-4E04-B832-1E23E0A51696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AB31FE3-7517-4E04-B832-1E23E0A51696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AB31FE3-7517-4E04-B832-1E23E0A51696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AB31FE3-7517-4E04-B832-1E23E0A51696}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE72ADA6-2AE5-44CD-A6B2-985530C2328E}
+	EndGlobalSection
+EndGlobal
